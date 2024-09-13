@@ -5,15 +5,15 @@
 <h1 align="center">👋 Hello, I'm Bhoomika Marigoudar</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kshitij--patil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:kshitijpatilsocial@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bhoomika-marigoudar-5507a8264/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:bhoomikamarigoudar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing a Electronics engineering degree at Veermata Jijabai Technological institute, Mumbai.
-- 💼 I'm passionate about firmware development, embedded systems, IoT devices and web development.
-- 👯 I'm looking to collaborate on IoT projects.
+- 🎓 I'm currently pursuing a Computer Science and Artificial engineering degree at KLE Technological University,Hubli.
+- 💼 I'm passionate about System design,  IoT devices and Web development.
+
 
 ## 🛠 Tech Stack
 
