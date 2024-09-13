@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="assets/pfbanner.png" alt="Your Name's GitHub Banner">
+  <img width="100%" src="assets/pfbanner.png" alt="Bhoomika Marigoudar">
 </p>
 
 <h1 align="center">👋 Hello, I'm Bhoomika Marigoudar</h1>
@@ -26,11 +26,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijpatil16&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomika1714&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijpatil16&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Your GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomika1714&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Your GitHub Streak" />
 </p>
 
 <!-- ## 🏆 GitHub Trophies
@@ -42,7 +42,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijpatil16&layout=compact&theme=dark&hide_border=true" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika1714&layout=compact&theme=dark&hide_border=true" alt="Your Top Languages" />
 </p>
 
 ## 🐍 Contribution Graph
