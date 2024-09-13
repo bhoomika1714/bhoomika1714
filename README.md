@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="assets/pfbanner.png" alt="Bhoomika Marigoudar">
+  <img width="25%" src="assets/148475967.jpeg" alt="Bhoomika Marigoudar">
 </p>
 
 <h1 align="center">👋 Hello, I'm Bhoomika Marigoudar</h1>
