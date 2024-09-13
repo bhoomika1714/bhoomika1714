@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing a Computer Science and Artificial engineering degree at KLE Technological University,Hubli.
-- 💼 I'm passionate about System design,  IoT devices and Web development.
+- 💼 I'm passionate about Problem Solving,System design and Web development.
 
 
 ## 🛠 Tech Stack
@@ -44,14 +44,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika1714&layout=compact&theme=dark&hide_border=true" alt="Your Top Languages" />
 </p>
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshitijpatil16/kshitijpatil16/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshitijpatil16/kshitijpatil16/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kshitijpatil16/kshitijpatil16/output/github-contribution-grid-snake.svg">
-</picture>
 
 <!-- ## 🚀 Featured Projects
 
