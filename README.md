@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bhoomika Marigoudar</h1>
 <h3 align="center">🎓 Computer Science And Artificial Intelligence Undergraduate at KLE Technological University, Hubli 💻 Passionate about Problem Solving, System Design, and Web Development 📚 Tutor for students in Science and Math (Grades 6-10)</h3>
 
-<p align="left"> <img src="assets//148475967.jpeg" alt="bhoomika1417" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhoomika1417" alt="bhoomika1417" /></a> </p>
 
